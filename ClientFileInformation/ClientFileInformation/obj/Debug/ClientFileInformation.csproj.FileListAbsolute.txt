@@ -1,0 +1,30 @@
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\bin\Debug\ClientFileInformation.exe.config
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\bin\Debug\ClientFileInformation.exe
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\bin\Debug\ClientFileInformation.pdb
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation_MarkupCompile.cache
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation_MarkupCompile.lref
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.g.resources
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.Properties.Resources.resources
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.exe
+C:\Users\Harshal\Desktop\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\bin\Debug\ClientFileInformation.exe.config
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\bin\Debug\ClientFileInformation.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\bin\Debug\ClientFileInformation.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\MainWindow.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\App.g.cs
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation_MarkupCompile.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation_MarkupCompile.lref
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\MainWindow.baml
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.g.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.Properties.Resources.resources
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.csproj.GenerateResource.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.csproj.CoreCompileInputs.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ClientFileInformation\ClientFileInformation\obj\Debug\ClientFileInformation.pdb

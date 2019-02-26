@@ -1,0 +1,14 @@
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\bin\Debug\ServerFileInformation.exe.config
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\bin\Debug\ServerFileInformation.exe
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\bin\Debug\ServerFileInformation.pdb
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.exe
+C:\Users\Harshal\Desktop\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\bin\Debug\ServerFileInformation.exe.config
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\bin\Debug\ServerFileInformation.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\bin\Debug\ServerFileInformation.pdb
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.csprojAssemblyReference.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.csproj.CoreCompileInputs.cache
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.exe
+F:\VISUAL_STUDIO_PROGRAMS\C# Programs\Projects\C# Projects\FTP\ServerFileInformation\ServerFileInformation\obj\Debug\ServerFileInformation.pdb
